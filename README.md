@@ -11,7 +11,7 @@ This is just a quick example, and there are other kinds of web extraction utilit
 
 ## Usage
 
-1. Create the folder in your project ./windsurfWeb.
+1. Create the folder in your project /windsurfWeb.
 2. Copy the webExtract.js into the folder.
 3. Install the dependencies (Cheerio, etc...) with npm install
 4. Click on Windsurf Settings in the bottom right corner of Windsurf and edit Set Global AI Rules. Then you can copy the rules from the provided .md in this repo.

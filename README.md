@@ -3,9 +3,11 @@ Easy @web extraction tool for windsurf
 
 ## Overview
 
-The Windsurf IDE does not yet have the @web extract feature that Cursor has. The following is an example of how to implement it into your Windsurf experience yourself, if you are using Node.js. 
+The Windsurf IDE does not yet have the @web extract feature that Cursor has. This feature allows the user to type in @web [url] in their chat and have the agent store the extracted information in its memory for the duration of the conversation.
 
-This is just a quick example, and there are other web extraction utilities you could use for this.
+The following is an example of how to implement it into your Windsurf experience yourself, if you are using Node.js. 
+
+This is just a quick example, and there are other kinds of web extraction utilities you could use for this.
 
 ## Usage
 

@@ -3,7 +3,7 @@ Easy @web extraction tool for windsurf
 
 ## Overview
 
-The Windsurf IDE does not yet have the @web extract feature that Cursor has. Here, I'm showing an example of how to implement it into your Windsurf experience itself, if you are using Node.js. 
+The Windsurf IDE does not yet have the @web extract feature that Cursor has. The following is an example of how to implement it into your Windsurf experience yourself, if you are using Node.js. 
 
 This is just a quick example, and there are other web extraction utilities you could use for this.
 

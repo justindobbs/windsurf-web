@@ -1,13 +1,13 @@
 # windsurf-web
 Easy @web extraction tool for windsurf
 
-##Overview
+## Overview
 
 The Windsurf IDE does not yet have the @web extract feature that Cursor has. Here, I'm showing an example of how to implement it into your Windsurf experience itself, if you are using Node.js. 
 
 This is just a quick example, and there are other web extraction utilities you could use for this.
 
-##Usage
+## Usage
 
 1. Create the folder in your project ./windsurfWeb.
 2. Copy the webExtract.js into the folder.
